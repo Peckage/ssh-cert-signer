@@ -1,0 +1,2 @@
+# Path to your SSH CA private key
+CA_KEY="$HOME/.ssh/ca/id_ca"
